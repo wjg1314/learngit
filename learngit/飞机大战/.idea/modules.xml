@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/PycharmProjects/.idea/PycharmProjects.iml" filepath="D:/PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/day12.iml" filepath="$PROJECT_DIR$/.idea/day12.iml" />
+      <module fileurl="file://F:/黑马python/Python基础-第13天（项目：Pygame的飞机大战2）/04-代码/day131测试 - 副本/.idea/day13.iml" filepath="F:/黑马python/Python基础-第13天（项目：Pygame的飞机大战2）/04-代码/day131测试 - 副本/.idea/day13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pygame测试/.idea/pygame测试.iml" filepath="$PROJECT_DIR$/../pygame测试/.idea/pygame测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../每日代码/.idea/每日代码.iml" filepath="$PROJECT_DIR$/../每日代码/.idea/每日代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../每日练习题代码/.idea/每日练习题代码.iml" filepath="$PROJECT_DIR$/../每日练习题代码/.idea/每日练习题代码.iml" />
+    </modules>
+  </component>
+</project>
